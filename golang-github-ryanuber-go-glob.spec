@@ -1,6 +1,6 @@
 Name     : golang-github-ryanuber-go-glob
 Version  : 0.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/ryanuber/go-glob/archive/v0.1.tar.gz
 Source0  : https://github.com/ryanuber/go-glob/archive/v0.1.tar.gz
 Summary  : No detailed summary available
